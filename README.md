@@ -1,5 +1,5 @@
 # python-learning-journey
-Learning Python and building skills for AI and Machine Learning
+Documenting my Python learning journey with daily coding projects and exercises for AI and Machine Learning.
 
 ## About Me
 
@@ -28,3 +28,24 @@ This repository will contain:
 Day 1 ✅ First Repository Created 
 Day 1 ✅ Learned Python Operators 
 Day 1 ✅ Created Github Acoount 
+
+### Day 1
+- Python basics
+- Variables and data types
+- User input
+
+### Day 2
+- Mad Libs game
+- String manipulation
+- Input/output practice
+
+### Day 3
+- Math functions
+- If-else statements
+- Conditional logic
+
+### Day 4
+- Basic Calculator
+- Arithmetic operators (+, -, *, /)
+- Conditional statements (if-elif-else)
+- User input handling
