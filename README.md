@@ -29,6 +29,7 @@ This repository will contain:
 | Day 3 | Math & If-Else | Math Functions, Conditions |
 | Day 4 | Calculator | Arithmetic Operations, If-Elif |
 | Day 5 | Weight Converter | Unit Conversion, Conditional Logic |
+| Day 6 | Temperature Converter | Unit Conversion, Mathematical Formulas, Conditions |
 
 
 
@@ -66,3 +67,8 @@ Day 1 ✅ Created Github Acoount
 - Practiced unit conversions
 - Improved input handling
 - Used conditional statements for program flow
+
+### Day 6 
+- Celsius ↔ Fahrenheit conversion
+- Mathematical formulas
+- User input validation
