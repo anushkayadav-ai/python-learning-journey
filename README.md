@@ -22,6 +22,16 @@ This repository will contain:
 - Student Grade Calculator
 - Future AI/ML Projects
 
+| Day | Project | Concepts Learned |
+|-----|---------|-----------------|
+| Day 1 | Python Basics | Variables, Input, Data Types |
+| Day 2 | Mad Libs Game | Strings, User Input |
+| Day 3 | Math & If-Else | Math Functions, Conditions |
+| Day 4 | Calculator | Arithmetic Operations, If-Elif |
+| Day 5 | Weight Converter | Unit Conversion, Conditional Logic |
+
+
+
 ## Progress Log
 
 ### 7 June 2026
@@ -49,3 +59,10 @@ Day 1 ✅ Created Github Acoount
 - Arithmetic operators (+, -, *, /)
 - Conditional statements (if-elif-else)
 - User input handling
+
+### Day 5
+– Weight Converter
+- Converted kilograms to pounds and vice versa
+- Practiced unit conversions
+- Improved input handling
+- Used conditional statements for program flow
