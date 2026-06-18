@@ -30,6 +30,11 @@ This repository will contain:
 | Day 4 | Calculator | Arithmetic Operations, If-Elif |
 | Day 5 | Weight Converter | Unit Conversion, Conditional Logic |
 | Day 6 | Temperature Converter | Unit Conversion, Mathematical Formulas, Conditions |
+| Day 7 | Logical Operators | Boolean Logic, And, Or, Not |
+| Day 8 | Conditional Expressions | Ternary Operators, Boolean Logic |
+| Day 9 | String Methods | String Manipulation, Input Validation |
+| Day 10 | String Indexing | Indexing, Slicing, Negative Indexing |
+| Day 11 | Format Specifiers | F-Strings, Number Formatting |
 
 
 
@@ -72,3 +77,34 @@ Day 1 ✅ Created Github Acoount
 - Celsius ↔ Fahrenheit conversion
 - Mathematical formulas
 - User input validation
+
+### Day 7
+– Logical Operators
+- Learned and, or, and not
+- Evaluated multiple conditions
+- Built simple weather logic
+  
+### Day 8 
+– Conditional Expressions
+- Learned ternary operators
+- Wrote one-line if-else statements
+- Practiced Boolean logic
+
+### Day 9 
+– String Methods
+- Used common string methods
+- Replaced and searched text
+- Built username validation
+
+### Day 10
+– String Indexing
+- Learned indexing and slicing
+- Used negative indexing
+- Reversed strings
+
+### Day 11 
+– Format Specifiers
+- Practiced f-strings
+- Formatted numbers
+- Added commas and signs
+- Rounded decimal values
