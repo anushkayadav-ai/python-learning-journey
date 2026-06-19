@@ -35,7 +35,7 @@ This repository will contain:
 | Day 9 | String Methods | String Manipulation, Input Validation |
 | Day 10 | String Indexing | Indexing, Slicing, Negative Indexing |
 | Day 11 | Format Specifiers | F-Strings, Number Formatting |
-
+| Day 12 | While Loops | Repetition, Input Validation, Loop Control |
 
 
 ## Progress Log
@@ -108,3 +108,10 @@ Day 1 ✅ Created Github Acoount
 - Formatted numbers
 - Added commas and signs
 - Rounded decimal values
+
+### Day 12 
+- Learned how while loops work
+- Validated user input
+- Repeated actions until a condition was met
+- Practiced loop control and conditional logic
+
