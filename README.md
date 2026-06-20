@@ -36,6 +36,7 @@ This repository will contain:
 | Day 10 | String Indexing | Indexing, Slicing, Negative Indexing |
 | Day 11 | Format Specifiers | F-Strings, Number Formatting |
 | Day 12 | While Loops | Repetition, Input Validation, Loop Control |
+| Day 13 | Compound Interest Calculator | Loops, Validation, Mathematical Calculations |
 
 
 ## Progress Log
@@ -114,4 +115,10 @@ Day 1 ✅ Created Github Acoount
 - Validated user input
 - Repeated actions until a condition was met
 - Practiced loop control and conditional logic
+
+### Day 13
+- Built a compound interest calculator
+- Validated user input with while loops
+- Prevented negative values
+- Used mathematical formulas and formatted output
 
