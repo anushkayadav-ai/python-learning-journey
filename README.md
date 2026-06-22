@@ -38,6 +38,7 @@ This repository will contain:
 | Day 12 | While Loops | Repetition, Input Validation, Loop Control |
 | Day 13 | Compound Interest Calculator | Loops, Validation, Mathematical Calculations |
 | Day 14 | For Loops | Range, Iteration, Break, Continue |
+| Day 15 | Countdown Timer | Time Module, Loops, Time Formatting |
 
 
 ## Progress Log
@@ -128,4 +129,10 @@ Day 1 ✅ Created Github Acoount
 - Iterated through ranges and strings
 - Practiced `break` and `continue`
 - Used `reversed()` with `range()`
+
+### Day 15 
+- Built a real-time countdown timer
+- Imported and used the `time` module
+- Converted seconds into HH:MM:SS format
+- Practiced loops and formatted output
 
