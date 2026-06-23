@@ -39,6 +39,7 @@ This repository will contain:
 | Day 13 | Compound Interest Calculator | Loops, Validation, Mathematical Calculations |
 | Day 14 | For Loops | Range, Iteration, Break, Continue |
 | Day 15 | Countdown Timer | Time Module, Loops, Time Formatting |
+| Day 16 | Nested Loops | Pattern Generation, Outer & Inner Loops |
 
 
 ## Progress Log
@@ -136,3 +137,8 @@ Day 1 ✅ Created Github Acoount
 - Converted seconds into HH:MM:SS format
 - Practiced loops and formatted output
 
+### Day 16 
+- Learned how nested loops work
+- Generated patterns using rows and columns
+- Practiced outer and inner loops
+- Used `end=" "` for formatting output
