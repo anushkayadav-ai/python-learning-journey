@@ -40,6 +40,7 @@ This repository will contain:
 | Day 14 | For Loops | Range, Iteration, Break, Continue |
 | Day 15 | Countdown Timer | Time Module, Loops, Time Formatting |
 | Day 16 | Nested Loops | Pattern Generation, Outer & Inner Loops |
+| Day 17 | Lists, Sets & Tuples | Collections, Membership Checks, Iteration |
 
 
 ## Progress Log
@@ -142,3 +143,11 @@ Day 1 ✅ Created Github Acoount
 - Generated patterns using rows and columns
 - Practiced outer and inner loops
 - Used `end=" "` for formatting output
+
+### Day 17
+- Learned Python collections
+- Compared lists, sets, and tuples
+- Practiced membership checks using in
+- Counted duplicate values
+- Iterated through collections using loops
+
