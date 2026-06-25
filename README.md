@@ -41,6 +41,8 @@ This repository will contain:
 | Day 15 | Countdown Timer | Time Module, Loops, Time Formatting |
 | Day 16 | Nested Loops | Pattern Generation, Outer & Inner Loops |
 | Day 17 | Lists, Sets & Tuples | Collections, Membership Checks, Iteration |
+| Day 18 | Shopping Cart Program | Lists, Loops, User Input, Data Storage |
+| Day 18 | Shopping Cart Program | Lists, Loops, User Input, Data Storage |
 
 
 ## Progress Log
@@ -150,4 +152,11 @@ Day 1 ✅ Created Github Acoount
 - Practiced membership checks using in
 - Counted duplicate values
 - Iterated through collections using loops
+
+### Day 18
+- Built a shopping cart application
+- Stored data using lists
+- Collected multiple user inputs
+- Calculated totals using loops
+- Practiced list operations and data management
 
