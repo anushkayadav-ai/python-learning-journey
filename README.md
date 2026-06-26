@@ -43,6 +43,7 @@ This repository will contain:
 | Day 17 | Lists, Sets & Tuples | Collections, Membership Checks, Iteration |
 | Day 18 | Shopping Cart Program | Lists, Loops, User Input, Data Storage |
 | Day 18 | Shopping Cart Program | Lists, Loops, User Input, Data Storage |
+| Day 19 | 2D Collections | Nested Lists, Nested Tuples, Nested Loops |
 
 
 ## Progress Log
@@ -159,4 +160,10 @@ Day 1 ✅ Created Github Acoount
 - Collected multiple user inputs
 - Calculated totals using loops
 - Practiced list operations and data management
+
+### Day 19
+- Learned how to create nested lists and tuples
+- Traversed 2D collections using nested loops
+- Organized related data into grouped collections
+- Practiced accessing rows and individual elements
 
