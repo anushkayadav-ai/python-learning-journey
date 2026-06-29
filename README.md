@@ -44,6 +44,9 @@ This repository will contain:
 | Day 18 | Shopping Cart Program | Lists, Loops, User Input, Data Storage |
 | Day 18 | Shopping Cart Program | Lists, Loops, User Input, Data Storage |
 | Day 19 | 2D Collections | Nested Lists, Nested Tuples, Nested Loops |
+| Day 20 | Quiz Game | Tuples, Lists, Loops, User Input, Score Calculation |
+| Day 21 | Dictionaries | Key-Value Pairs, Dictionary Methods, Iteration |
+| Day 22 | Concession Stand Program | Dictionaries, Lists, Loops, Menu-Based Applications |
 
 
 ## Progress Log
@@ -166,4 +169,24 @@ Day 1 ✅ Created Github Acoount
 - Traversed 2D collections using nested loops
 - Organized related data into grouped collections
 - Practiced accessing rows and individual elements
+
+### Day 20 
+- Built an interactive multiple-choice quiz
+- Stored questions and answers using tuples
+- Collected user responses with lists
+- Calculated and displayed the final score
+- Combined loops, conditions, and user input
+
+### Day 21 
+- Learned key-value pairs using dictionaries
+- Practiced dictionary methods (`get`, `update`, `pop`)
+- Retrieved keys, values, and items
+- Iterated through dictionary entries using loops
+
+### Day 22 
+- Built a menu-based ordering system
+- Stored menu items using dictionaries
+- Recorded customer orders in a list
+- Calculated the total bill
+- Practiced dictionary lookups and formatted output
 
