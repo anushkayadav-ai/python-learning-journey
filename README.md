@@ -47,6 +47,7 @@ This repository will contain:
 | Day 20 | Quiz Game | Tuples, Lists, Loops, User Input, Score Calculation |
 | Day 21 | Dictionaries | Key-Value Pairs, Dictionary Methods, Iteration |
 | Day 22 | Concession Stand Program | Dictionaries, Lists, Loops, Menu-Based Applications |
+| Day 23 | Random Module | Random Numbers, Random Choice, List Shuffling |
 
 
 ## Progress Log
@@ -189,4 +190,10 @@ Day 1 ✅ Created Github Acoount
 - Recorded customer orders in a list
 - Calculated the total bill
 - Practiced dictionary lookups and formatted output
+
+### Day 23 
+- Learned to use Python's `random` module
+- Generated random integers and floating-point numbers
+- Selected random items from a collection
+- Shuffled a list using `random.shuffle()`
 
