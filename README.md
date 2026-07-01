@@ -48,6 +48,7 @@ This repository will contain:
 | Day 21 | Dictionaries | Key-Value Pairs, Dictionary Methods, Iteration |
 | Day 22 | Concession Stand Program | Dictionaries, Lists, Loops, Menu-Based Applications |
 | Day 23 | Random Module | Random Numbers, Random Choice, List Shuffling |
+| Day 24 | Number Guessing Game | Random Module, Input Validation, Loops, Game Logic |
 
 
 ## Progress Log
@@ -196,4 +197,11 @@ Day 1 ✅ Created Github Acoount
 - Generated random integers and floating-point numbers
 - Selected random items from a collection
 - Shuffled a list using `random.shuffle()`
+
+### Day 24 
+- Built an interactive number guessing game
+- Generated random numbers using the `random` module
+- Validated user input and checked ranges
+- Counted guesses and provided feedback
+- Combined loops, conditions, and randomness into a complete game
 
