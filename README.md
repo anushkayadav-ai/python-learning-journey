@@ -50,6 +50,7 @@ This repository will contain:
 | Day 23 | Random Module | Random Numbers, Random Choice, List Shuffling |
 | Day 24 | Number Guessing Game | Random Module, Input Validation, Loops, Game Logic |
 | Day 25 | Rock Paper Scissors | Random Choice, Game Logic, Loops, User Input |
+| Day 26 | Dice Roller Program | Dictionaries, Tuples, Nested Loops, ASCII Art, Random Module |
 
 
 ## Progress Log
@@ -212,4 +213,11 @@ Day 1 ✅ Created Github Acoount
 - Validated user input
 - Determined the winner using conditional logic
 - Added a replay feature for multiple rounds
+
+### Day 26 
+- Built a dice rolling simulator
+- Generated random dice values
+- Displayed dice faces using ASCII art
+- Printed multiple dice using nested loops
+- Calculated the total of all dice rolls
 
