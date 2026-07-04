@@ -51,6 +51,7 @@ This repository will contain:
 | Day 24 | Number Guessing Game | Random Module, Input Validation, Loops, Game Logic |
 | Day 25 | Rock Paper Scissors | Random Choice, Game Logic, Loops, User Input |
 | Day 26 | Dice Roller Program | Dictionaries, Tuples, Nested Loops, ASCII Art, Random Module |
+| Day 27 | Functions | Parameters, Return Values, Code Reusability |
 
 
 ## Progress Log
@@ -220,4 +221,11 @@ Day 1 ✅ Created Github Acoount
 - Displayed dice faces using ASCII art
 - Printed multiple dice using nested loops
 - Calculated the total of all dice rolls
+
+### Day 27 
+- Learned how to define and call functions
+- Passed arguments through parameters
+- Returned values using `return`
+- Built reusable arithmetic and utility functions
+- Practiced string formatting and code reusability
 
