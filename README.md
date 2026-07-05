@@ -52,6 +52,7 @@ This repository will contain:
 | Day 25 | Rock Paper Scissors | Random Choice, Game Logic, Loops, User Input |
 | Day 26 | Dice Roller Program | Dictionaries, Tuples, Nested Loops, ASCII Art, Random Module |
 | Day 27 | Functions | Parameters, Return Values, Code Reusability |
+| Day 28 | Default Arguments | Optional Parameters, Function Flexibility, Reusable Functions |
 
 
 ## Progress Log
@@ -228,4 +229,11 @@ Day 1 ✅ Created Github Acoount
 - Returned values using `return`
 - Built reusable arithmetic and utility functions
 - Practiced string formatting and code reusability
+
+### Day 28 
+- Learned how to define default parameter values
+- Built flexible functions with optional arguments
+- Calculated prices using default discount and tax values
+- Created a customizable counting function
+- Practiced writing reusable and maintainable code
 
