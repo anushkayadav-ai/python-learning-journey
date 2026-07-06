@@ -53,6 +53,7 @@ This repository will contain:
 | Day 26 | Dice Roller Program | Dictionaries, Tuples, Nested Loops, ASCII Art, Random Module |
 | Day 27 | Functions | Parameters, Return Values, Code Reusability |
 | Day 28 | Default Arguments | Optional Parameters, Function Flexibility, Reusable Functions |
+| Day 29 | Keyword Arguments | Keyword Arguments, Function Calls, Named Parameters, Readability |
 
 
 ## Progress Log
@@ -236,4 +237,11 @@ Day 1 ✅ Created Github Acoount
 - Calculated prices using default discount and tax values
 - Created a customizable counting function
 - Practiced writing reusable and maintainable code
+
+### Day 29 
+– Keyword Arguments
+- Learned how to use keyword arguments in function calls
+- Improved readability with named parameters
+- Formatted output using f-strings and `sep`
+- Built reusable functions with clear argument passing
 
