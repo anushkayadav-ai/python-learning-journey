@@ -55,6 +55,8 @@ This repository will contain:
 | Day 28 | Default Arguments | Optional Parameters, Function Flexibility, Reusable Functions |
 | Day 29 | Keyword Arguments | Keyword Arguments, Function Calls, Named Parameters, Readability |
 | Day 31 | *args & **kwargs | Variable-Length Arguments, Flexible Functions, Argument Packing |
+| Day 31 | Iterables | Tuples, Sets, Strings, Dictionaries, For Loops |
+| Day 32 | Membership Operators | `in`, `not in`, Strings, Sets, Dictionaries, Input Validation |
 
 
 ## Progress Log
@@ -251,4 +253,18 @@ Day 1 ✅ Created Github Acoount
 - Learned how **kwargs accepts variable-length keyword arguments.
 - Practiced creating flexible and reusable functions.
 - Improved understanding of Python function parameter handling.
+
+### Day 31 
+– Iterables
+- Learned what iterable objects are in Python.
+- Practiced iterating through tuples, sets, strings, and dictionaries.
+- Used `for` loops to access elements one at a time.
+- Learned how `.items()` is used to iterate through dictionary key-value pairs.
+
+### Day 32 
+– Membership Operators
+- Learned how to use `in` and `not in` operators.
+- Checked membership in strings, sets, and dictionaries.
+- Retrieved dictionary values safely after checking keys.
+- Built a simple email validation example using membership operators.
 
