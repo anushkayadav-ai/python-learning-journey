@@ -57,6 +57,8 @@ This repository will contain:
 | Day 31 | *args & **kwargs | Variable-Length Arguments, Flexible Functions, Argument Packing |
 | Day 31 | Iterables | Tuples, Sets, Strings, Dictionaries, For Loops |
 | Day 32 | Membership Operators | `in`, `not in`, Strings, Sets, Dictionaries, Input Validation |
+| Day 33 | List Comprehensions | List Creation, Filtering, String Transformation, Conditional Expressions |
+| Day 34 | Match-Case Statement | Pattern Matching, Conditional Logic, Functions, Boolean Values |
 
 
 ## Progress Log
@@ -267,4 +269,20 @@ Day 1 ✅ Created Github Acoount
 - Checked membership in strings, sets, and dictionaries.
 - Retrieved dictionary values safely after checking keys.
 - Built a simple email validation example using membership operators.
+
+### Day 33 
+– List Comprehensions
+- Learned how to create lists using list comprehensions.
+- Practiced mathematical operations with ranges.
+- Converted strings to uppercase using comprehensions.
+- Filtered positive, negative, even, odd numbers, and passing grades.
+- Improved understanding of concise and readable Python code.
+
+### Day 34 
+– Match-Case Statement
+- Learned how to use Python's `match-case` statement.
+- Matched multiple values using the `|` operator.
+- Used the default `case _` to handle unmatched values.
+- Built a function to identify weekends and weekdays.
+- Practiced writing cleaner conditional logic.
 
