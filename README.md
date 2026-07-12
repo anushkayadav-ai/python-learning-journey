@@ -59,6 +59,7 @@ This repository will contain:
 | Day 32 | Membership Operators | `in`, `not in`, Strings, Sets, Dictionaries, Input Validation |
 | Day 33 | List Comprehensions | List Creation, Filtering, String Transformation, Conditional Expressions |
 | Day 34 | Match-Case Statement | Pattern Matching, Conditional Logic, Functions, Boolean Values |
+| Day 35 | Modules | Built-in Modules, Custom Modules, Import Statements, Code Reusability |
 
 
 ## Progress Log
@@ -285,4 +286,12 @@ Day 1 ✅ Created Github Acoount
 - Used the default `case _` to handle unmatched values.
 - Built a function to identify weekends and weekdays.
 - Practiced writing cleaner conditional logic.
+
+### Day 35 
+– Modules
+- Learned how to import built-in Python modules.
+- Used the `math` module to access mathematical constants.
+- Explored different import styles.
+- Created reusable functions for mathematical calculations.
+- Learned how to import and use a custom Python module.
 
