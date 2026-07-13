@@ -60,6 +60,7 @@ This repository will contain:
 | Day 33 | List Comprehensions | List Creation, Filtering, String Transformation, Conditional Expressions |
 | Day 34 | Match-Case Statement | Pattern Matching, Conditional Logic, Functions, Boolean Values |
 | Day 35 | Modules | Built-in Modules, Custom Modules, Import Statements, Code Reusability |
+| Day 36 | Variable Scope (LEGB) | Local Scope, Global Scope, Built-in Scope, Name Resolution |
 
 
 ## Progress Log
@@ -294,4 +295,12 @@ Day 1 ✅ Created Github Acoount
 - Explored different import styles.
 - Created reusable functions for mathematical calculations.
 - Learned how to import and use a custom Python module.
+
+### Day 36 
+– Variable Scope (LEGB)
+- Learned how variable scope works in Python.
+- Understood the LEGB (Local, Enclosed, Global, Built-in) rule.
+- Accessed global variables inside functions.
+- Explored how a global variable can shadow an imported name.
+- Improved understanding of Python's name resolution process.
 
